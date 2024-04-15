@@ -1,0 +1,12 @@
+# DAY 1
+
+burp suite is a java based framework which is used to pentesting on mobile apps, API's web apps
+There are 3 editions of burp suite : 
+  1. Community edition 2. professional edition 3. Enterprise edition
+
+  # Installation in windows :
+   1) You need to install the Java Runtime first before installing the burp suit as it is a framework based on java then you have to download the exe form the portswigger website.
+   2) Then you have to set the proxy in browser and install the CA certificate of the burp in the browser.
+
+# TABS : 
+ 1) PROXY : All the requests will go trough the burp suite if you turn on the INTERCEPT option from the PROXY tab.
